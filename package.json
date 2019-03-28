@@ -1,0 +1,29 @@
+{
+  "name": "poker-displayer",
+  "version": "1.0.0",
+  "description": "Web interface with green screen displaying player cards, selected from software",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kaiiso/poker-displayer.git"
+  },
+  "author": "Kaiiso",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Kaiiso/poker-displayer/issues"
+  },
+  "homepage": "https://github.com/Kaiiso/poker-displayer#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.5",
+    "dotenv": "^7.0.0",
+    "express": "^4.16.4",
+    "mysql": "^2.16.0",
+    "path": "^0.12.7",
+    "sequelize": "^3.30.4",
+    "sequelize-cli": "^5.4.0"
+  }
+}
