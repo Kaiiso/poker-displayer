@@ -4,12 +4,15 @@ module.exports = {
     return queryInterface.createTable('Players', {
       PlayerId: {
         type: Sequelize.INTEGER,
+        allownull: true
       },
       FirstCardImagePath: {
         type: Sequelize.STRING,
+        allownull: true
       },
       SecondCardImagePath: {
         type: Sequelize.STRING,
+        allownull: true
       }
     });
   },

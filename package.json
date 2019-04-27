@@ -24,6 +24,7 @@
     "mysql": "^2.16.0",
     "path": "^0.12.7",
     "sequelize": "^3.30.4",
-    "sequelize-cli": "^5.4.0"
+    "sequelize-cli": "^5.4.0",
+    "socket.io": "^2.2.0"
   }
 }
