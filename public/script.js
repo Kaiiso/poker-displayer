@@ -17,9 +17,9 @@ function loadCards() {
                 for (let j = 1; j <= 2; j++) {
                     container = document.querySelector(`#p${i}c${j}`);
                     if (j == 1) {
-                        card = response.players[i-1].FirstCardImagePath;
+                        card = response.players[i-1].FirstCard;
                     } else if (j == 2) {
-                        card = response.players[i-1].SecondCardImagePath;
+                        card = response.players[i-1].SecondCard;
                     }
                     container.innerHTML = `<img src="assets/poker-cards/${card}.png" class="card">`;
                 }

@@ -6,9 +6,8 @@ module.exports = (sequelize, DataTypes) => {
       primaryKey: true,
       autoIncrement: true
     },
-    Nickname: DataTypes.STRING,
-    FirstCard: DataTypes.STRING,
-    SecondCard: DataTypes.STRING
+    FirstCardImagePath: DataTypes.STRING,
+    SecondCardImagePath: DataTypes.STRING
   }, {
     timestamps: false
   });

@@ -8,7 +8,6 @@ exports.router = (() => {
 
     // Players routes
     apirouter.route('/player/update-info/').put(playercontrollers.updateinfo);
-    apirouter.route('/player/update-nickname/').put(playercontrollers.updatenickname);
     apirouter.route('/player/get-info/').get(playercontrollers.getinfo);
     apirouter.route('/player/reset-info/').get(playercontrollers.resetinfo);
 

@@ -9,7 +9,7 @@ npm install
 ```
 
 ## Usage
-Go to `api/config/config.json` and replace by your database configuration and create all the 3 database.
+Go to `api/config/config-example.json`, rename the file by taking off `-example` and replace information in the file by your database configuration and create all the 3 database.
 
 Then run these commands :
 

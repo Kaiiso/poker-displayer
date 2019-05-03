@@ -1,0 +1,28 @@
+C:\Users\mclss\OneDrive\Documents\Development\nodejs\poker-displayer\software\poker-displayer\poker-displayer\bin\Debug\poker-displayer.exe.config
+C:\Users\mclss\OneDrive\Documents\Development\nodejs\poker-displayer\software\poker-displayer\poker-displayer\bin\Debug\poker-displayer.exe
+C:\Users\mclss\OneDrive\Documents\Development\nodejs\poker-displayer\software\poker-displayer\poker-displayer\bin\Debug\poker-displayer.pdb
+C:\Users\mclss\OneDrive\Documents\Development\nodejs\poker-displayer\software\poker-displayer\poker-displayer\obj\Debug\poker-displayer.csprojAssemblyReference.cache
+C:\Users\mclss\OneDrive\Documents\Development\nodejs\poker-displayer\software\poker-displayer\poker-displayer\obj\Debug\poker_displayer.Form1.resources
+C:\Users\mclss\OneDrive\Documents\Development\nodejs\poker-displayer\software\poker-displayer\poker-displayer\obj\Debug\poker_displayer.Properties.Resources.resources
+C:\Users\mclss\OneDrive\Documents\Development\nodejs\poker-displayer\software\poker-displayer\poker-displayer\obj\Debug\poker-displayer.csproj.GenerateResource.cache
+C:\Users\mclss\OneDrive\Documents\Development\nodejs\poker-displayer\software\poker-displayer\poker-displayer\obj\Debug\poker-displayer.csproj.CoreCompileInputs.cache
+C:\Users\mclss\OneDrive\Documents\Development\nodejs\poker-displayer\software\poker-displayer\poker-displayer\obj\Debug\poker-displayer.exe
+C:\Users\mclss\OneDrive\Documents\Development\nodejs\poker-displayer\software\poker-displayer\poker-displayer\obj\Debug\poker-displayer.pdb
+C:\Users\mclss\OneDrive\Documents\Development\nodejs\poker-displayer\software\poker-displayer\poker-displayer\bin\Debug\poker-displayer.exe.manifest
+C:\Users\mclss\OneDrive\Documents\Development\nodejs\poker-displayer\software\poker-displayer\poker-displayer\bin\Debug\poker-displayer.application
+C:\Users\mclss\OneDrive\Documents\Development\nodejs\poker-displayer\software\poker-displayer\poker-displayer\obj\Debug\poker-displayer.exe.manifest
+C:\Users\mclss\OneDrive\Documents\Development\nodejs\poker-displayer\software\poker-displayer\poker-displayer\obj\Debug\poker-displayer.application
+C:\Users\Salvatore Macaluso\OneDrive\Documents\Development\nodejs\poker-displayer\software\poker-displayer\poker-displayer\bin\Debug\poker-displayer.exe.config
+C:\Users\Salvatore Macaluso\OneDrive\Documents\Development\nodejs\poker-displayer\software\poker-displayer\poker-displayer\bin\Debug\poker-displayer.exe.manifest
+C:\Users\Salvatore Macaluso\OneDrive\Documents\Development\nodejs\poker-displayer\software\poker-displayer\poker-displayer\bin\Debug\poker-displayer.application
+C:\Users\Salvatore Macaluso\OneDrive\Documents\Development\nodejs\poker-displayer\software\poker-displayer\poker-displayer\bin\Debug\poker-displayer.exe
+C:\Users\Salvatore Macaluso\OneDrive\Documents\Development\nodejs\poker-displayer\software\poker-displayer\poker-displayer\bin\Debug\poker-displayer.pdb
+C:\Users\Salvatore Macaluso\OneDrive\Documents\Development\nodejs\poker-displayer\software\poker-displayer\poker-displayer\obj\Debug\poker-displayer.csprojAssemblyReference.cache
+C:\Users\Salvatore Macaluso\OneDrive\Documents\Development\nodejs\poker-displayer\software\poker-displayer\poker-displayer\obj\Debug\poker_displayer.Form1.resources
+C:\Users\Salvatore Macaluso\OneDrive\Documents\Development\nodejs\poker-displayer\software\poker-displayer\poker-displayer\obj\Debug\poker_displayer.Properties.Resources.resources
+C:\Users\Salvatore Macaluso\OneDrive\Documents\Development\nodejs\poker-displayer\software\poker-displayer\poker-displayer\obj\Debug\poker-displayer.csproj.GenerateResource.cache
+C:\Users\Salvatore Macaluso\OneDrive\Documents\Development\nodejs\poker-displayer\software\poker-displayer\poker-displayer\obj\Debug\poker-displayer.csproj.CoreCompileInputs.cache
+C:\Users\Salvatore Macaluso\OneDrive\Documents\Development\nodejs\poker-displayer\software\poker-displayer\poker-displayer\obj\Debug\poker-displayer.exe.manifest
+C:\Users\Salvatore Macaluso\OneDrive\Documents\Development\nodejs\poker-displayer\software\poker-displayer\poker-displayer\obj\Debug\poker-displayer.application
+C:\Users\Salvatore Macaluso\OneDrive\Documents\Development\nodejs\poker-displayer\software\poker-displayer\poker-displayer\obj\Debug\poker-displayer.exe
+C:\Users\Salvatore Macaluso\OneDrive\Documents\Development\nodejs\poker-displayer\software\poker-displayer\poker-displayer\obj\Debug\poker-displayer.pdb
