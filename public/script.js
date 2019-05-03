@@ -1,6 +1,7 @@
 let container;
 let xhr;
 let card;
+let nickname;
 
 function loadCards() {
 
@@ -22,6 +23,14 @@ function loadCards() {
                         card = response.players[i-1].SecondCard;
                     }
                     container.innerHTML = `<img src="assets/poker-cards/${card}.png" class="card">`;
+                }
+                nickname = response.players[i-1].Nickname;
+                
+                if (nickname == 'null') {
+                    document.querySelector(`#p${i}`).style.display = 'none';
+                } else {
+                    document.querySelector(`#p${i}`).style.display = 'block';
+                    document.querySelector(`#player${i}`).innerHTML = `${i}. ${nickname}`;
                 }
             }
         }

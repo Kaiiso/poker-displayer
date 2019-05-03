@@ -10,24 +10,26 @@ body, html {
 }
 
 .player-left {
-    height: 14vh;
-    width: 200px;
+    height: 130px;
+    width: 135px;
     background-color: #444;
     border: solid #222 2px;
     border-radius: 5px;
-    margin-top: 2.2vh;
+    margin-top: 15px;
     margin-left: 20px;
+    text-align: center;
 }
 
 .player-right {
-    height: 14vh;
-    width: 200px;
+    height: 130px;
+    width: 135px;
     background-color: #444;
     border: solid #222 2px;
     border-radius: 5px;
-    margin-top: 2.2vh;
+    margin-top: 15px;
     margin-left: auto;
     margin-right: 20px;
+    text-align: center;
 }
 
 .left {
@@ -42,33 +44,29 @@ body, html {
 }
 
 .first-card {
-    height: 12vh;
-    width: 50px;
+    height: 85px;
+    width: 55px;
     background-color: #ddd;
     border-radius: 5px;
-    margin-top: 1vh;
     display: inline-block;
-    margin-left: 85px;
 }
 
 .second-card {
-    height: 12vh;
-    width: 50px;
+    height: 85px;
+    width: 55px;
     background-color: #ddd;
     border-radius: 5px;
-    margin-top: 1vh;
-    display: inline-block;
     margin-left: 5px;
+    display: inline-block;
 }
 
-label {
+p {
     color: #fff;
-    font-family: Calibri;
-    font-size: 12pt;
-    float: left;
-    margin-left: 10px;
-    margin-top: 5vh;
-    position: absolute;
+    font-family: 'Montserrat', Arial;
+    font-size: 14pt;
+    margin-left: 5px;
+    margin-top: 5px;
+    margin-bottom: 8px;
 }
 
 .card {
